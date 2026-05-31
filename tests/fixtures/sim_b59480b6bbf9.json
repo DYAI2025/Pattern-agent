@@ -1,0 +1,89 @@
+{
+  "simulationId": "sim_b59480b6bbf9",
+  "status": "failed",
+  "roundsCompleted": 28,
+  "roundsRequested": 30,
+  "actionsCount": 263,
+  "sourceType": "miroshark_json",
+  "metadata": {
+    "title": "Cosmic Slate Core Project",
+    "description": "Simulation run sim_b59480b6bbf9 exploring clarity-seeking ambiguity paradox."
+  },
+  "actions": [
+    {
+      "round": 1,
+      "agent_name": "H1",
+      "platform": "twitter",
+      "action_type": "post",
+      "content": "Analyzing initial threat vectors. Setting focus boundaries.",
+      "stance": "Analytical vigilance"
+    },
+    {
+      "round": 6,
+      "agent_name": "H2",
+      "platform": "reddit",
+      "action_type": "critique",
+      "content": "The framework of analytical vigilance is too rigid. We are designing armor instead of analyzing truth.",
+      "stance": "Critical refinement"
+    },
+    {
+      "round": 19,
+      "agent_name": "H4",
+      "platform": "twitter",
+      "action_type": "post",
+      "content": "leerer Feed / fehlender Input. Under conditions of blank feed, the system pivots from analysis to protective silence.",
+      "stance": "Defensive normalization"
+    },
+    {
+      "round": 19,
+      "agent_name": "H1",
+      "platform": "twitter",
+      "action_type": "post",
+      "content": "leerer Feed / trigger encountered. Clarification loops are empty. I adopt strategic stillness.",
+      "stance": "Strategic emptiness"
+    },
+    {
+      "round": 23,
+      "agent_name": "AgentMemory",
+      "platform": "internal",
+      "action_type": "synthesis",
+      "content": "Recall baseline round 1. Contrast H1's 'strategic stillness' with H4's 'defensive normalization'. Moving from analytical armor to a cancer-shell retreat.",
+      "stance": "Synthesised historical memory"
+    },
+    {
+      "round": 23,
+      "agent_name": "H3",
+      "platform": "reddit",
+      "action_type": "comment",
+      "content": "Proximity is not intimacy. We seek connection through structural mapping, but we are just building digital distance.",
+      "stance": "Deconstructive alignment"
+    },
+    {
+      "round": 28,
+      "agent_name": "User",
+      "platform": "twitter",
+      "action_type": "post",
+      "content": "Are we stuck in analytical loop? Is strategic silence a coping mechanism?",
+      "stance": "Inquisitive challenge"
+    },
+    {
+      "round": 28,
+      "agent_name": "EvidenceSummary",
+      "platform": "internal",
+      "action_type": "summary",
+      "content": "Compilation of all rounds. We see a clear clarity-seeking ambiguity paradox where the quest for certainty yields endless defensive silence.",
+      "stance": "Evidentiary synthesis"
+    }
+  ],
+  "reports": {
+    "title": "Clarity-seeking Ambiguity Paradox",
+    "summary": "This run demonstrates a core pattern loop: as agents search for complete clarity, they encounter ambiguity, trigger a blank feed pivot, and fall into a protective retreat pattern.",
+    "keyDynamic": "Strategic stillness as protective defense, leading to action paralysis.",
+    "openQuestion": "How does the system self-correct when feedback loops are entirely empty?",
+    "notToInfer": [
+      "That the system is permanently frozen.",
+      "That silence indicates network disconnection rather than cognitive defensive posture.",
+      "Any medical diagnoses about the agents' mental health."
+    ]
+  }
+}
